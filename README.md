@@ -11,6 +11,10 @@
 - Pick up cube from table
 - Record end-effector (x, y, z) positions
 
+**Demo**
+
+https://github.com/Danyabm/Robotic-ARM_Pick-cube/blob/main/pick.mp4
+
 ## Installation
 
 ```bash
