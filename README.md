@@ -13,7 +13,8 @@
 
 **Demo**
 
-https://github.com/Danyabm/Robotic-ARM_Pick-cube/blob/main/pick.mp4
+https://github.com/user-attachments/assets/4563fa29-1545-4ff4-b948-b35560e35da9
+
 
 ## Installation
 
