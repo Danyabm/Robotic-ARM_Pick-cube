@@ -27,17 +27,8 @@ pip install torch torchvision torchaudio
 ## Usage
 
 ```bash
-python trajectory_generation.py
+python position.py
 python pickup.py
-```
-
-## Files
-
-```
-├── problem1_trajectory_generation.py
-├── problem2_cube_pickup.py
-├── Videos/
-└── plots/
 ```
 
 ## Results
